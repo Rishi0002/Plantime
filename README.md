@@ -126,6 +126,10 @@ Main design decisions that were taken while making wireframes are
 
 6. Adding progress bars so that system status is visible to the users according to the Nielson's usability heuristics.
 
+A High Resolution image of wireframes is attached alongwith its figma link.
+
+![](./Plantime%20High%20Fidelity%20Wireframes.png)
+
 After making the wireframes, user testing is to be done and the designs are to be made consistent and filled with details but in my case since time was less I had to skip the user testing in this case. Some of the consistency issues that I faced were
 
 1. Scroll Component : In app design scroll component is difficult, tricky and sometimes fruitless to design because of the fact that it takes up unnecessary real estate on the phone and the user might mistakenly press the side of the screens and the scroll might navigate at a place they didn't want to go, facing that myself I have noticed that it is quite annoying. Thus, I wanted to make the scrolling hidden like many apps out there but in final designs I decided to keep it in some places so that it would indicate system status to the user in somewhat unobvious places, like the notes section and today's care screens.
