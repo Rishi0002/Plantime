@@ -62,11 +62,16 @@ After all of this, I designed a rough content map and an interaction map to figu
 
 I made sure to map out all the content that I had in my mind. So that while making connections between the content, I would notice the need of some other content and that is what happened I hadn't thought about that for which particular days the alarm for watering would needed to be set, this issue arose in the content map, other things like how will additional misting option will be triggered in the add plant option. 
 
-Attached rough content mapping.
-
 I made the interaction map to have a proper an apt flow through my content so that anything wouldn't feel misplaced. This is where I discovered the plethora of screens I will be requiring for sign-up/login like sign up social, sign in social, forgot password etc. Also had issues in setting up the flow of changing the water schedule in add plant and select plant option. And as you will see, I decided to eliminate an unnecessary past statistic graphic as either the statistic would be yes or not and whatever I could do with it wouldn't really help the user in any way and no one really wants anything no their app that no one really needs.
 
-Attached rough interaction mapping.
+![](./20220829_195507.jpg)
+![](./20220829_195510.jpg)
+![](./20220829_195521.jpg)
+![](./20220829_195527.jpg)
+![](./20220829_195531.jpg)
+![](./20220829_195535.jpg)
+![](./20220829_195539.jpg)
+![](./20220829_195546.jpg)
 
 It can be said more content and flows through the content are figure out through the content and interaction map.
 
@@ -74,7 +79,7 @@ It can be said more content and flows through the content are figure out through
 
 Then I made a proper sitemap which combined the content mapping and the interaction mapping to have the actual rough app flow that I would be used while making wireframes. Below attatched is the Sitemap.
 
-![](./Plantime%20Sitemap%20Final%202.png)
+![](./Plantime%20Sitemap%20Final%202.png.png)
 
 ### **~~Digital~~ Paper Prototyping**
 
@@ -109,7 +114,7 @@ Wireframe Map      UI Design
 
 Before applying the colours and imagery, I had to figure out the nitty-gritty details like what size of button I was going to use, margin of labels for some screens from top, is there a need to put the label at each screen and wasting away precious real estate while there is not much on a mobile device to begin with. etc. All such or most of them would get answered in the development of wireframes mentioned below.
 
-### **Wireframes and Prototype**
+### **Wireframes and Static Prototype**
 
 Thus, I started with making wireframes and it was important to not focus on too much detail and focus on functional, minimal, consistent and user-centric opposite to what I said but the development of wireframes would in general give a rough idea of the things that I talked about, for example while making wireframes I would have to place the labels either in center or left aligned which would reduce further options. Let me walk the reader through briefly all the decisions that were made in the wireframes.
 Main design decisions that were taken while making wireframes are
@@ -151,7 +156,7 @@ Some details that I focused on
 9. Basically other stuff like sticking to the colour palette, making right colour contrast.
 10. I changed the time schedule in today's care to horizontal because I wanted to put plant cards and this design would let me put them and not make the design look ugly or weird.
 
-Most of the detailed design decisions that I wanted to mention about the final designs have been mentioned above. 
+And with these details and consitency issues solved I finished my static prototype.
 
 ---
 
