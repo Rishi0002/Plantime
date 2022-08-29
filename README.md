@@ -18,7 +18,7 @@ After an app idea is concieved, we need to further think about the main function
 
 As mentioned after the app idea, I came up with four main functions that I thought my app was going to do as a part of the idea. Following below are those ideas in descending importance.
 
-#### **Main Functions in Descending Importance**
+#### **1. Main Functions in Descending Importance**
 
 1. Will give reminders about watering the plant primarily in the form of noticifications and alarms.
 
@@ -32,7 +32,7 @@ It's important to note that it's not necessary for the final product to contain 
 
 Every app starts out by targeting some specific user groups, some apps or websites necessarily target **only** certain user groups and makes their websites and app that would suit the users from their user groups. The point is that the main user groups that are going to first use my app first must have a great experience according to them. I could streamline the experience for everybody but must make sure that for my target user groups I provide the best experience that I can. Because they are the people that I need to impress so that they would popularise my app. Thus, we must identify such user groups and their goals that they would like to achieve with my app if they decided to use it. Thus, following are the user groups.
 
-#### **Potential User Roles**
+#### **2. Potential User Roles**
 
 1. People who love plants and trees and the nature around them to some degree.
 
@@ -56,7 +56,7 @@ This is where some part of designing starts until now we had been doing ideation
 
 ### **Mapping**
 
-#### **Content Mapping and Interaction Mapping**
+#### **1. Content Mapping and Interaction Mapping**
 
 After all of this, I designed a rough content map and an interaction map to figure out the flow from one screen to another and to map out all the content in a diagrammatic manner. 
 
@@ -68,7 +68,7 @@ The Content Maps and Interaction Maps are there in the Repository.
 
 It can be said more content and flows through the content are figure out through the content and interaction map.
 
-#### **Sitemap**
+#### **2. Sitemap**
 
 Then I made a proper sitemap which combined the content mapping and the interaction mapping to have the actual rough app flow that I would be used while making wireframes. Below attatched is the Sitemap.
 
@@ -152,7 +152,7 @@ Some details that I focused on
 9. Basically other stuff like sticking to the colour palette, making right colour contrast.
 10. I changed the time schedule in today's care to horizontal because I wanted to put plant cards and this design would let me put them and not make the design look ugly or weird.
 
-And with these details and consitency issues solved I finished my static prototype.
+And with these details and consitency issues solved I finished my static prototype. Here is the [figma link](https://www.figma.com/file/K7DFzcg7XGtOOa3wEqoY8h/Plantime-Prototype-v1?node-id=0%3A1).
 
 ---
 
