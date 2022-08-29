@@ -28,8 +28,6 @@ As mentioned after the app idea, I came up with four main functions that I thoug
 
 4. Other features like backing up data, filtering out plants according to searches, setting up dates and time alarms ahead in time etc.
 
-<!-- MAKE THIS BRIEF -->
-
 It's important to note that it's not necessary for the final product to contain all of these functions. It just needs to have some of them because some of them would get eliminated depending upon some factors and the sooner they get eliminated or modified the lesser the financial loss is.
 
 Every app starts out by targeting some specific user groups, some apps or websites necessarily target **only** certain user groups and makes their websites and app that would suit the users from their user groups. The point is that the main user groups that are going to first use my app first must have a great experience according to them. I could streamline the experience for everybody but must make sure that for my target user groups I provide the best experience that I can. Because they are the people that I need to impress so that they would popularise my app. Thus, we must identify such user groups and their goals that they would like to achieve with my app if they decided to use it. Thus, following are the user groups.
@@ -76,7 +74,7 @@ It can be said more content and flows through the content are figure out through
 
 Then I made a proper sitemap which combined the content mapping and the interaction mapping to have the actual rough app flow that I would be used while making wireframes. Below attatched is the Sitemap.
 
-![](./Plantime%20Sitemap%20Final.png)
+![](./Plantime%20Sitemap%20Final%202.png)
 
 ### **~~Digital~~ Paper Prototyping**
 
