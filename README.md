@@ -64,14 +64,7 @@ I made sure to map out all the content that I had in my mind. So that while maki
 
 I made the interaction map to have a proper an apt flow through my content so that anything wouldn't feel misplaced. This is where I discovered the plethora of screens I will be requiring for sign-up/login like sign up social, sign in social, forgot password etc. Also had issues in setting up the flow of changing the water schedule in add plant and select plant option. And as you will see, I decided to eliminate an unnecessary past statistic graphic as either the statistic would be yes or not and whatever I could do with it wouldn't really help the user in any way and no one really wants anything no their app that no one really needs.
 
-![](./20220829_195507.jpg)
-![](./20220829_195510.jpg)
-![](./20220829_195521.jpg)
-![](./20220829_195527.jpg)
-![](./20220829_195531.jpg)
-![](./20220829_195535.jpg)
-![](./20220829_195539.jpg)
-![](./20220829_195546.jpg)
+The Content Maps and Interaction Maps are there in the Repository.
 
 It can be said more content and flows through the content are figure out through the content and interaction map.
 
@@ -134,6 +127,9 @@ Main design decisions that were taken while making wireframes are
 A High Resolution image of wireframes is attached alongwith its figma link.
 
 ![](./Plantime%20High%20Fidelity%20Wireframes.png)
+
+If the image doesn't load you can also checck it out in the repo, also the link,
+[Plantime High Fidelity Wireframes](https://www.figma.com/file/PMmtSFSnYj0DoO29XFl2Bc/Plantime-High-Fidelity-Wireframes?node-id=0%3A1).
 
 After making the wireframes, user testing is to be done and the designs are to be made consistent and filled with details but in my case since time was less I had to skip the user testing in this case. Some of the consistency issues that I faced were
 
